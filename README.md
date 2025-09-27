@@ -75,11 +75,13 @@ Hi, I’m **Karthik Manoharan** 👋
 ---
 
 ## 📫 Connect With Me  
+### 👨‍💼 About Me 
 
-- 🌐 [LinkedIn](https://linkedin.com/in/karvj)  
-- ✉️ Email: karvjnz@gmail.com  
-- 📍 Based in **Auckland, New Zealand**  
-
----
+🎤 Available for **Guest Sessions / Webinars**  
+🤝 Open to **Project Collaborations / YouTube Collabs**  
+💼 Offering **DevOps Consulting / Mentorship**  
+✉️ Email: karvjnz@gmail.com
+🌐 [LinkedIn](https://linkedin.com/in/karvj)  
+📍 Based in **Auckland, New Zealand**  
 
 ⭐️ *“Translating business challenges into scalable technology solutions.”*  
