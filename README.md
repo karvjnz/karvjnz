@@ -1,16 +1,63 @@
 # 💫 Hi 👋, I'm Karthik
+
+### 👨‍💼 About Me:
 **A passionate Business Analyst || Cloud Engineer || Solution Architect || Test Manager from Auckland, New Zealand**
+- A certified **Business Analyst Specialist | Solution Architect | Cloud Engineer | Test Manager-Software Testing | Scrum Master**
+- 13+ years of industry experience delivering technology and process solutions across **New Zealand, India, Singapore, and Saudi Arabia**.
+- Skilled in AgileMmethodologies, Digital Transformation, Stakeholder Management, and Process Re-Engineering, Strong ability to bridge business needs with technology solutions to drive efficiency and scalability  
 
 - 🔭 **I’m currently working on:** Digital Banking Transformation project with Gulf International Bank - Saudi Arabia/Bahrain (Freelance)
 - 🌱 **I’m currently learning:** Azure Cloud Computing Practitioner & Research Project on Business Analytics
-- * 🌍  I'm based in Auckland, New Zealand
-* ✉️  You can contact me at [karvjnz@gmail.com](mailto:karvjnz@gmail.com)
 * 👥  I'm looking to collaborate on Business Analysis, Software Testing, Process Automation, Corporate Training, Project Mentor, Test Management
 
-### 👨‍💼 About Me
+---
 
-- A certified **Business Analyst Specialist | Solution Architect | Cloud Engineer | Test Manager-Software Testing | Scrum Master** with 13+ years of industry experience delivering technology and process solutions across **New Zealand, India, Singapore, and Saudi Arabia**.
-- Skilled in Agile methodologies, digital transformation, stakeholder management, and process re-engineering, Strong ability to bridge business needs with technology solutions to drive efficiency and scalability  
+## 🚀 Tools & Technologies  
+
+## Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) 
+![VBA](https://img.shields.io/badge/-VBA-867DB1?logo=microsoft&logoColor=white&style=for-the-badge) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) 
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) 
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) 
+
+## IDEs & Diagram Tools
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge) 
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge) 
+![Visio](https://img.shields.io/badge/-Visio-0078D7?logo=microsoft&logoColor=white&style=for-the-badge) 
+![Lucidchart](https://img.shields.io/badge/-Lucidchart-FF6F61?style=for-the-badge) 
+![Draw.io](https://img.shields.io/badge/-Draw.io-000000?style=for-the-badge) 
+
+## Databases
+![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?logo=oracle&logoColor=white&style=for-the-badge) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) 
+
+## Tools & Frameworks
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge) 
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge) 
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge) 
+![UiPath](https://img.shields.io/badge/-UiPath-FF6F00?logo=uipath&logoColor=white&style=for-the-badge) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) 
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-205081?logo=bitbucket&logoColor=white&style=for-the-badge) 
+![API](https://img.shields.io/badge/-API-009688?logo=fastapi&logoColor=white&style=for-the-badge) 
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-007ACC?style=for-the-badge) 
+![WSO2](https://img.shields.io/badge/-WSO2-0078D7?style=for-the-badge) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge) 
+
+## Other Skills
+![AI](https://img.shields.io/badge/-AI-FF6F61?style=for-the-badge) 
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-008080?style=for-the-badge) 
+![Data Models](https://img.shields.io/badge/-Data%20Models-6f42c1?style=for-the-badge) 
+![System Architecture](https://img.shields.io/badge/-System%20Architecture-007ACC?style=for-the-badge) 
+![Cloud Concepts](https://img.shields.io/badge/-Cloud%20Concepts-0078D7?style=for-the-badge) 
+
+
+### 📜 Certifications  
+
+![Azure AZ-900](https://img.shields.io/badge/Azure-AZ--900-0078D7?logo=microsoft-azure&logoColor=white&style=for-the-badge)  
+![CBAP](https://img.shields.io/badge/CBAP-IIBA-blue?style=for-the-badge)  
+![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-green?style=for-the-badge)  
+![Agile](https://img.shields.io/badge/Agile-Scrum%20Master-orange?style=for-the-badge)  
 
 ---
 
@@ -37,40 +84,6 @@
 - Test Management (ST/SIT/UAT/Regression), User Stories, Automation  
 - Data Analysis & Visualization (Dashboards, Reports)  
 - API & Middleware Integration  
-
----
-## 🚀 Tools & Technologies  
-
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-
-**IDEs**  
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white) 
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
-
-**Databases**  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) 
-![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?logo=oracle&logoColor=white)  
-
-**Tools & Frameworks**  
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) 
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white) 
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white) 
-![UiPath](https://img.shields.io/badge/-UiPath-FF6F00?logo=uipath&logoColor=white) 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
-![API](https://img.shields.io/badge/-API-009688?logo=fastapi&logoColor=white) 
-![Agile](https://img.shields.io/badge/-Agile-28a745?logo=azuredevops&logoColor=white)
-
-### 📜 Certifications  
-
-![CBAP](https://img.shields.io/badge/CBAP-IIBA-blue)  
-![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-green)  
-![Agile](https://img.shields.io/badge/Agile-Scrum%20Master-orange)  
 
 ---
 ### 🔥 GitHub Contribution Streak
