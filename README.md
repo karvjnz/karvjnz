@@ -1,10 +1,11 @@
 # 💫 Hi 👋, I'm Karthik
 **A passionate Business Analyst || Cloud Engineer || Solution Architect || Test Manager from Auckland, New Zealand**
 
-Email Me 👉 ✉️ **karvjnz@gmail.com ** For Business Solutions/Test Management/Coach Mentorship. 😊😊
-
 - 🔭 **I’m currently working on:** Digital Banking Transformation project with Gulf International Bank - Saudi Arabia/Bahrain (Freelance)
-- 🌱 **I’m currently learning:** Cloud Engineering (AWS/Azure) & Research Project on Business Analytics
+- 🌱 **I’m currently learning:** Azure Cloud Computing Practitioner & Research Project on Business Analytics
+- * 🌍  I'm based in Auckland, New Zealand
+* ✉️  You can contact me at [karvjnz@gmail.com](mailto:karvjnz@gmail.com)
+* 👥  I'm looking to collaborate on Business Analysis, Software Testing, Process Automation, Corporate Training, Project Mentor, Test Management
 
 ### 👨‍💼 About Me
 
@@ -38,19 +39,32 @@ Email Me 👉 ✉️ **karvjnz@gmail.com ** For Business Solutions/Test Manageme
 - API & Middleware Integration  
 
 ---
-**Tools & Technologies**  
+## 🚀 Tools & Technologies  
 
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)  
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)  
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![UiPath](https://img.shields.io/badge/-UiPath-FF6F00?logo=uipath&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+
+**IDEs**  
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white) 
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
+
+**Databases**  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) 
+![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?logo=oracle&logoColor=white)  
+
+**Tools & Frameworks**  
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) 
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white) 
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white) 
+![UiPath](https://img.shields.io/badge/-UiPath-FF6F00?logo=uipath&logoColor=white) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
+![API](https://img.shields.io/badge/-API-009688?logo=fastapi&logoColor=white) 
+![Agile](https://img.shields.io/badge/-Agile-28a745?logo=azuredevops&logoColor=white)
 
 ### 📜 Certifications  
 
