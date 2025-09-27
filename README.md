@@ -1,16 +1,15 @@
-Hi, I’m **Karthik** 👋  
 # 💫 Hi 👋, I'm Karthik
 **A passionate Business Analyst || Cloud Engineer || Solution Architect || Test Manager from Auckland, New Zealand**
 
-Email Me 👉 ✉️ **karvjnz@gmailcin** For Business Solutions/Test Management/Coach Mentorship. 😊😊
+Email Me 👉 ✉️ **karvjnz@gmail.com ** For Business Solutions/Test Management/Coach Mentorship. 😊😊
 
 - 🔭 **I’m currently working on:** Digital Banking Transformation project with Gulf International Bank - Saudi Arabia/Bahrain (Freelance)
-- 🌱 **I’m currently learning:** Cloud Engineering (AWS/Azure)
+- 🌱 **I’m currently learning:** Cloud Engineering (AWS/Azure) & Research Project on Business Analytics
 
 ### 👨‍💼 About Me
 
-A certified **Business Analyst Specialist | Solution Architect | Cloud Engineer | Test Manager-Software Testing | Scrum Master** with 13+ years of industry experience delivering technology and process solutions across **New Zealand, India, Singapore, and Saudi Arabia**.
-Skilled in Agile methodologies, digital transformation, stakeholder management, and process re-engineering, Strong ability to bridge business needs with technology solutions to drive efficiency and scalability  
+- A certified **Business Analyst Specialist | Solution Architect | Cloud Engineer | Test Manager-Software Testing | Scrum Master** with 13+ years of industry experience delivering technology and process solutions across **New Zealand, India, Singapore, and Saudi Arabia**.
+- Skilled in Agile methodologies, digital transformation, stakeholder management, and process re-engineering, Strong ability to bridge business needs with technology solutions to drive efficiency and scalability  
 
 ---
 
