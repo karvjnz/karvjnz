@@ -1,7 +1,6 @@
 Hi, I’m **Karthik Manoharan** 👋  
 
-A Business Analyst Specialist | Solution Architect | Cloud Engineer | Test Manager-Software Testing | Scrum Maaster | Banking & IT Domain Expert**
-
+🔹 A Business Analyst Specialist | Solution Architect | Cloud Engineer | Test Manager-Software Testing | Scrum Maaster | Banking & IT Domain Expert**
 🔹 **13+ years of experience** delivering technology and process solutions across **New Zealand, India, Singapore, and Saudi Arabia**  
 🔹 Skilled in **Agile methodologies, digital transformation, stakeholder management, and process re-engineering**  
 🔹 Strong ability to **bridge business needs with technology solutions** to drive efficiency and scalability  
