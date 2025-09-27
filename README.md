@@ -32,6 +32,13 @@ Email Me 👉 ✉️ **karvjnz@gmail.com ** For Business Solutions/Test Manageme
 - Trade Finance, Supply Chain Finance, Receivable/Payable Financing  
 - Loan Syndication, Credit Underwriting, KYC, Payment Systems (SWIFT, RTGS, SEPA, etc.)  
 
+**Data & Testing**  
+- Test Management (ST/SIT/UAT/Regression), User Stories, Automation  
+- Data Analysis & Visualization (Dashboards, Reports)  
+- API & Middleware Integration  
+
+---
+**Tools & Technologies**  
 
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)  
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)  
@@ -45,13 +52,6 @@ Email Me 👉 ✉️ **karvjnz@gmail.com ** For Business Solutions/Test Manageme
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
 
-**Data & Testing**  
-- Test Management (ST/SIT/UAT/Regression), User Stories, Automation  
-- Data Analysis & Visualization (Dashboards, Reports)  
-- API & Middleware Integration  
-
----
-
 ### 📜 Certifications  
 
 ![CBAP](https://img.shields.io/badge/CBAP-IIBA-blue)  
@@ -59,16 +59,14 @@ Email Me 👉 ✉️ **karvjnz@gmail.com ** For Business Solutions/Test Manageme
 ![Agile](https://img.shields.io/badge/Agile-Scrum%20Master-orange)  
 
 ---
-<!-- Snake Game Repo View -->
-
-<div align="left">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
 ### 🔥 GitHub Contribution Streak
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
+<!-- Snake Game Repo View -->
+<div align="left">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
