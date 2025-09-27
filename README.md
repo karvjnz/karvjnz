@@ -26,7 +26,7 @@ Hi, I’m **Karthik Manoharan** 👋
 - Trade Finance, Supply Chain Finance, Receivable/Payable Financing  
 - Loan Syndication, Credit Underwriting, KYC, Payment Systems (SWIFT, RTGS, SEPA, etc.)  
 
-**Tools & Technology**  
+
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)  
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)  
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)  
@@ -51,6 +51,13 @@ Hi, I’m **Karthik Manoharan** 👋
 ![CBAP](https://img.shields.io/badge/CBAP-IIBA-blue)  
 ![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-green)  
 ![Agile](https://img.shields.io/badge/Agile-Scrum%20Master-orange)  
+
+---
+
+
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
 ---
 
