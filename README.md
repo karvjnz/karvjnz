@@ -1,11 +1,20 @@
 Hi, I’m **Karthik** 👋  
+# 💫 Hi 👋, I'm Karthik
+**A passionate Business Analyst || Cloud Engineer || Solution Architect || Test Manager from Auckland, New Zealand**
+
+Email Me 👉 ✉️ **karvjnz@gmailcin** For Business Solutions/Test Management/Coach Mentorship. 😊😊
+
+- 🔭 **I’m currently working on:** Digital Banking Transformation project with Gulf International Bank - Saudi Arabia/Bahrain (Freelance)
+- 🌱 **I’m currently learning:** Cloud Engineering (AWS/Azure)
+
+### 👨‍💼 About Me
 
 A certified **Business Analyst Specialist | Solution Architect | Cloud Engineer | Test Manager-Software Testing | Scrum Master** with 13+ years of industry experience delivering technology and process solutions across **New Zealand, India, Singapore, and Saudi Arabia**.
 Skilled in Agile methodologies, digital transformation, stakeholder management, and process re-engineering, Strong ability to bridge business needs with technology solutions to drive efficiency and scalability  
 
 ---
 
-## 🚀 Professional Snapshot  
+### 🚀 Professional Snapshot  
 
 - **Gulf International Bank (Saudi Arabia/Bahrain)** – Led design & delivery of a **Digital Banking Unified Portal** for 150+ corporate clients, integrating multiple banking systems and reducing transaction processing time by **20%**.  
 - **Oracle Financial Services (BNP Paribas, India/Singapore)** – Delivered Supply Chain Finance solutions for 200+ multinational clients, improving process efficiency by **25%** via automation and re-engineering.  
@@ -13,7 +22,7 @@ Skilled in Agile methodologies, digital transformation, stakeholder management, 
 
 ---
 
-## 🛠️ Skills & Expertise  
+### 🛠️ Skills & Expertise  
 
 **Business Analysis & Delivery**  
 - Requirement Elicitation & Analysis (BABOK), UML, BPMN, GAP Analysis  
@@ -44,15 +53,20 @@ Skilled in Agile methodologies, digital transformation, stakeholder management, 
 
 ---
 
-## 📜 Certifications  
+### 📜 Certifications  
 
 ![CBAP](https://img.shields.io/badge/CBAP-IIBA-blue)  
 ![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-green)  
 ![Agile](https://img.shields.io/badge/Agile-Scrum%20Master-orange)  
 
 ---
+<!-- Snake Game Repo View -->
 
+<div align="left">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
+---
 ### 🔥 GitHub Contribution Streak
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
@@ -72,8 +86,7 @@ Skilled in Agile methodologies, digital transformation, stakeholder management, 
 
 ---
 
-## 📫 Connect With Me  
-### 👨‍💼 About Me 
+### 📫 Connect With Me  
 
 🎤 Available for **Guest Sessions / Webinars**  
 🤝 Open to **Project Collaborations / YouTube Collabs**  
