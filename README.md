@@ -1,8 +1,8 @@
 # 💫 Hi 👋, I'm Karthik
 
 ### 👨‍💼 About Me:
-**A passionate Business Analyst || Cloud Engineer || Solution Architect || Test Manager from Auckland, New Zealand**
-- A certified **Business Analyst Specialist | Solution Architect | Cloud Engineer | Test Manager-Software Testing | Scrum Master**
+**A passionate Business Analyst || Solution Architect || Test Manager from Auckland, New Zealand**
+- A certified **Business Analyst Specialist | Solution Architect | Test Manager-Software Testing | Scrum Master**
 - 13+ years of industry experience delivering technology and process solutions across **New Zealand, India, Singapore, and Saudi Arabia**.
 - Skilled in AgileMmethodologies, Digital Transformation, Stakeholder Management, and Process Re-Engineering, Strong ability to bridge business needs with technology solutions to drive efficiency and scalability  
 
