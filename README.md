@@ -54,7 +54,7 @@
 
 ### 📜 Certifications  
 
-![Azure AZ-900](https://img.shields.io/badge/Azure-AZ--900-0078D7?logo=microsoft-azure&logoColor=white&style=for-the-badge)  
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?logo=amazon-aws&logoColor=FF9900&style=for-the-badge)  
 ![CBAP](https://img.shields.io/badge/CBAP-IIBA-blue?style=for-the-badge)  
 ![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-green?style=for-the-badge)  
 ![Agile](https://img.shields.io/badge/Agile-Scrum%20Master-orange?style=for-the-badge)  
